@@ -1,0 +1,187 @@
+html {
+}
+
+body {
+  
+    
+  }
+
+  h1 {  
+    font-size: 46px;
+    font-kerning:normal;
+    color:  white;
+  }
+
+h2 {  
+  font-size: 16px;
+  color:  white;
+}
+  .servicos {
+    margin-left: 5%;
+    margin-right: 5%;
+
+  }
+
+  .logo {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+   
+  }
+
+  
+  .icone {
+    width:  200px;
+    height: 100px;
+   
+  }
+
+  
+  .column {
+    float: left;
+    width: 50%;
+    height: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: flexbox; 
+    clear: both;
+  }
+
+  .imagemnoacorde
+  {
+    object-fit:cover;
+    width: 200px;
+    padding: 20%;
+    margin-top: -10px;
+    display: block;
+  }
+
+
+
+  .titulo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color:white;
+    margin-top: 2%;
+  }
+
+
+
+  
+  .acercadenos {
+    margin-left: 5%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+    color: white;
+    font-weight: 400;
+  }
+
+
+  .titulosecundario {
+
+  }
+
+  
+  .botaoorcamento {
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    
+  }
+
+  .rounded {
+    border-radius: 2%;
+    margin-left:  10%;
+    margin-right:  10%;
+    box-shadow: 10px 10px rgba(255, 255, 255, 0.562);
+
+
+    
+    
+  }
+
+  .imagemhome {
+    margin-left:  50%;
+    margin-right:  50%;
+    
+    
+  }
+
+  .titulo {
+    margin-top: 5%;
+    
+  }
+
+  .clientes {
+    margin-right: 10%;
+    margin-left: 10%; 
+    margin-top: -2px;  
+    
+  }
+
+  .calltoaction {
+  background-color: white;
+  margin-bottom: 10%;
+  
+  }
+
+  .borderradius{
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    background: rgb(255 255 255 / 30%);
+
+
+
+    
+    }
+
+
+
+  .textocalltoaction {
+   
+    margin-right: 50%;
+    margin-right: 50%;
+    
+    }
+  
+  
+
+  footer {
+    background-color: white;
+    text-align: center;
+    text-align-last: center;
+   
+  }
+
+  .textodorodape {
+    margin: auto;
+    text-align: center;
+    color: red;
+
+   
+  }
+
+  .novotitulo {
+   margin-top: 2%;
+  }
+
+  a:hover {
+
+    color: coral;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+
+  .logoclientes{
+    border-radius: 8px;
+    box-shadow: 10px 10px 5px rgba(107, 107, 107, 0.192);
+
+  }
